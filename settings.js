@@ -5,8 +5,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348165846414"
-global.ownername = "𝑻𝒐𝒙𝒙𝒊𝒄 𝑩𝒐𝒚"
+global.ownernomer = "50938578360"
+global.ownername = "𒁂☠️    𝘒𝘙𝘟𝘕𝘖𝘚!🦇   ⩇⩇:⩇⩇ 🔞"
 global.ytname = "YT: ToxxicTech"
 global.socialm = "GitHub: Toxic1239"
 global.location = "Nigeria"
